@@ -1,0 +1,17 @@
+{
+  "name": "jwt-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start3000": "nodemon AuthServer.js",
+    "start4000":"nodemon RefreshTokens.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
