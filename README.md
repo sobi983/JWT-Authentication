@@ -1,0 +1,3 @@
+I am generating a acceess token that will last for 15 seconds and an admin can have a access to a specific endpoint API for 15 secodns and after the token will get expired. After the admin will have to create an another token using the refreshed token taht will be checked before creating a new token to access the endpoints.
+
+P.S There are several contraints that could be implememnted like  if the data is available in variable then create a token .... But these contraints are not implemented because It's just for the practice purpose.
